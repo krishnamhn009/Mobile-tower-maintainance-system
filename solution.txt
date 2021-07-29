@@ -1,6 +1,6 @@
 Requirements 
 
-
+Below sample classes and methods are given. High level design is attached in png format. It incldes various component to build application..client application, api , service and repository library.
 
 1) Authenticate Technicians
   Auth Methods
